@@ -1,1 +1,2 @@
 # DeepLearningPractice
+深層学習の勉強用リポジトリです。コードはClaudeが書いています。
